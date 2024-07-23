@@ -16,7 +16,7 @@ Numpy
 
 ![Background replacement](Screenshot1.png)
 
-![Subject replacement](Screenshot1.png)
+![Subject replacement](Screenshot2.png)
 
 ## Code Explanation
 
